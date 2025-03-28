@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InSight</string>
+    <string name="btn_start">DÉMARRER</string>
+    <string name="btn_stop">ARRÊTER</string>
+    <string name="btn_left">GAUCHE</string>
+    <string name="btn_front">AVANT</string>
+    <string name="btn_right">DROITE</string>
+    <string name="error_connection">Erreur de connexion: %1$s</string>
+    <string name="error_max_attempts">Impossible de se connecter après plusieurs tentatives</string>
+    <string name="success_connected">Connecté au robot</string>
+    <string name="success_command">Commande exécutée</string>
+    <string name="error_data_processing">Erreur lors du traitement des données</string>
+    <string name="error_api">Erreur : %1$s</string>
+</resources>
